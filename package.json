@@ -31,6 +31,7 @@
   "license": "ISC",
   "dependencies": {
     "alpinejs": "^3.10.2",
+    "alpinejs-ray": "^2.0.0",
     "axios": "^0.27.2"
   }
 }
